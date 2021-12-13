@@ -1,5 +1,7 @@
 
-# Blind Auction Program
+#                                                                    ___Blind Auction Program___
+
+
 # import time
 #
 # def countdown(t):
