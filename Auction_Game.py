@@ -1,4 +1,13 @@
-
+#-------------------------------------------------------------------------------
+# Name:        Auction Game
+# Purpose:     Fun
+#
+# Author:      nicolescu
+#
+# Created:     14/12/2021
+# Copyright:   (c) nicol 2021
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
 #                                                                    ___Blind Auction Program___
 
 
